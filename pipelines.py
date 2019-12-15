@@ -1,3 +1,17 @@
+#!/usr/local/bin/python3
+# -*- coding: utf-8 -*-
+
+__author__ = ["Tuan Nguyen"]
+__copyright__ = "Copyright 2019, Tuan Nguyen"
+__credits__ = ["Tuan Nguyen"]
+__license__ = "GPL"
+__version__ = "3.0"
+__status__ = "Production"
+__author__ = "TuanNguyen"
+__email__ = "etuannv@gmail.com"
+__website__ = "https://etuannv.com"
+
+
 class CsvByCategoryPipeline(object):  #
     
     stats_name = 'csvbycategory_pipeline'
